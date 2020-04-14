@@ -1,14 +1,17 @@
-[icon](./Develop/images/icon.jpeg "icon")
+![icon](./Develop/images/icon.jpeg "icon")
 
 # Project Title
 09 Node.js and ES6+ Homework: Good README Generator
 
-## Location of URLs
 
-This is the link to the github repo:
+# This is the link to the github repo:
+
+https://github.com/SINCHOCHAN/09hw
 
 
-This is the link to the live website:
+# This is the link to the live website:
+
+https://sinchochan.github.io/09hw/
 
 
 
@@ -77,4 +80,4 @@ THEN a README for the repo is generated
 
 ![runtest](./Develop/images/runtest.png "Screenshot of run the test")
 
-[runtest](./Develop/images/testresult.png "Screenshot of test result")
+![runtest](./Develop/images/testresult.png "Screenshot of test result")
