@@ -1,4 +1,4 @@
-![icon](./assets/images/icon.jpeg "icon")
+![icon](./Develop/images/icon.jpeg "icon")
 
 # Project Title
 09 Node.js and ES6+ Homework: Good README Generator
@@ -78,6 +78,6 @@ THEN a README for the repo is generated
 
 # How to run (screenshot)
 
-![runtest](./assets/images/runtest.png "Screenshot of run the test")
+![runtest](./Develop/images/runtest.png "Screenshot of run the test")
 
-![runtest](./assets/images/testresult.png "Screenshot of test result")
+![runtest](./Develop/images/testresult.png "Screenshot of test result")

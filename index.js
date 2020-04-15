@@ -74,7 +74,7 @@ inquirer.prompt([{
 
     //fs.writeFile('./', 'test.md', readMeFile)
 
-    fs.writeFile('test.md', readMeFile, function(err) {
+    fs.writeFile('./output/test.md', readMeFile, function(err) {
         if (err) throw err;
         console.log('Replaced!');
     });
